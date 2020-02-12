@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Item>
+  <!-- ItemData: アイテムの整数値IDです -->
+  <!-- ItemType: アイテムのタイプです -->
+  <!-- ItemName: アイテムの名前です -->
+  <!-- ItemStatus: アイテムの説明です -->
+  <!-- ItemEndurance: アイテムの耐久値です -->
+  <!-- ItemCorrecitonValueHP: アイテムによるプレイヤー、NPCのHPへの補正値です -->
+  <!-- ItemCorrecitonValueHP: アイテムによるプレイヤー、NPCのAttackへの補正値です -->
+  <!-- ItemCorrecitonValueHP: アイテムによるプレイヤー、NPCのArmorへの補正値です -->
+<ItemData>
+    <ItemNumber>
+    1
+    </ItemNumber>
+    <ItemType>
+      Weapon
+    </ItemType>
+    <ItemName>
+      ぼろ剣
+    </ItemName>
+    <ItemStatus>
+      海に出るルーキーたちが最初に手にするだろう武器であり、基本的な武器である。
+    </ItemStatus>
+    <ItemEndurance>
+     50
+    </ItemEndurance>
+    <ItemCorrectionValueHP>
+      0
+    </ItemCorrectionValueHP>
+    <ItemCorrecitonValueAttack>
+      5
+    </ItemCorrecitonValueAttack>
+    <ItemCorrecitonValueArmor>
+      2
+    </ItemCorrecitonValueArmor>
+    <ItemPrice>
+      100
+    </ItemPrice>
+  <ItemSellPrice>
+    50
+  </ItemSellPrice>
+</ItemData>
+<ItemData>
+  <ItemNumber>
+    2
+  </ItemNumber>
+  <ItemType>
+    Weapon
+  </ItemType>
+  <ItemName>
+    ぼろ剣Ⅱ
+  </ItemName>
+  <ItemStatus>
+    再利用の鉄を製錬した。敵にかすり傷はつけれるだろう。
+  </ItemStatus>
+  <ItemEndurance>
+   40
+  </ItemEndurance>
+  <ItemCorrectionValueHP>
+    0
+  </ItemCorrectionValueHP>
+  <ItemCorrecitonValueAttack>
+    7
+  </ItemCorrecitonValueAttack>
+  <ItemCorrecitonValueArmor>
+    3
+  </ItemCorrecitonValueArmor>
+  <ItemPrice>
+   200
+  </ItemPrice>
+  <ItemSellPrice>
+    75
+  </ItemSellPrice>
+</ItemData>
+  <ItemData>
+    <ItemNumber>
+      3
+    </ItemNumber>
+    <ItemType>
+      Weapon
+    </ItemType>
+    <ItemName>
+      放浪者の剣
+    </ItemName>
+    <ItemStatus>
+      鉄でできた剣を買う金がない者が良く使う青銅剣。錆びやすいので手入れが重要だ。
+    </ItemStatus>
+    <ItemEndurance>
+      45
+    </ItemEndurance>
+    <ItemCorrectionValueHP>
+      0
+    </ItemCorrectionValueHP>
+    <ItemCorrecitonValueAttack>
+      11
+    </ItemCorrecitonValueAttack>
+    <ItemCorrecitonValueArmor>
+      3
+    </ItemCorrecitonValueArmor>
+    <ItemPrice>
+      350
+    </ItemPrice>
+    <ItemSellPrice>
+      100
+    </ItemSellPrice>
+  </ItemData>
+</Item>
